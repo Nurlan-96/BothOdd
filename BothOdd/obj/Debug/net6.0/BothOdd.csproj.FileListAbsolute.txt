@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\bin\Debug\net6.0\BothOdd.exe
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\bin\Debug\net6.0\BothOdd.deps.json
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\bin\Debug\net6.0\BothOdd.runtimeconfig.json
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\bin\Debug\net6.0\BothOdd.dll
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\bin\Debug\net6.0\BothOdd.pdb
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\BothOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\BothOdd.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\BothOdd.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\BothOdd.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\BothOdd.dll
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\refint\BothOdd.dll
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\BothOdd.pdb
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\BothOdd.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\Desktop\BothOdd\BothOdd\obj\Debug\net6.0\ref\BothOdd.dll
